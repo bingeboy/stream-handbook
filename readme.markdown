@@ -3,6 +3,9 @@
 This document covers the basics of how to write [node.js](http://nodejs.org/)
 programs with [streams](http://nodejs.org/docs/latest/api/stream.html).
 
+Watch @substack's stream presentation here:
+http://www.youtube.com/watch?v=lQAV3bPOYHo&feature=share&list=PL818E3E69FFE55295
+
 ```
 "We should have some ways of connecting programs like garden hose--screw in
 another segment when it becomes necessary to massage data in
